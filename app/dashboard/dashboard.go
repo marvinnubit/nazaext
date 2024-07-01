@@ -14,7 +14,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/go-echarts/go-echarts/charts"
-	"github.com/q191201771/pprofplus/pkg/pprofplus"
+	"github.com/marvinnubit/pprofplus/pkg/pprofplus"
 	"io/ioutil"
 	"net/http"
 	"os"
